@@ -1,0 +1,34 @@
+body{
+    background : #cccccc;
+    color : #111111;
+    font-family : Arial; 
+    font-size : 13px;
+}
+#menu {
+    margin : 10px,15px;
+    text-align : right; 
+}
+
+ul, li{
+    display: inline-block;
+    margin:0;
+}
+ul, li, a{
+    padding:5px;
+    color:#555;
+}
+
+#bold {
+    font-weight: bold; 
+}
+#adresse {
+    float:left; 
+    margin-top : 20px;
+    color: #999999;
+    font-size:9px;
+    font-style:underline;
+}
+
+.table {
+    border: none;
+}
